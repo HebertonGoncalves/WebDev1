@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+#titulo{
+
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+#caixa_res{
+
+    color: white;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.container{
+
+    background-color: rgb(142, 142, 252);
+    max-width: 300px;
+    border-radius: 10%;
+    margin: auto;
+    padding: 20px;
+
+}
+
+input{
+
+    padding: 5px;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+#botao{
+
+    padding: 5px;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+
+}
